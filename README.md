@@ -6,7 +6,7 @@ This app allows the user to select from a list of bands and view background info
 Gabriella Pujada
 
 ## Current Features
-*Basic information display of 20 bands
+* Basic information display of 20 bands
 
 ## Optional Features to Develop
-*Add filters like genre or location
+* Add filters like genre or location
