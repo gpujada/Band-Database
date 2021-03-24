@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Linkin Park</item>
+        <item>Breaking Benjamin</item>
+        <item>Five Finger Death Punch</item>
+        <item>Paramore</item>
+        <item>Evanescence</item>
+        <item>Panic! at the Disco</item>
+        <item>Backstreet Boys</item>
+        <item>Three Days Grace</item>
+        <item>Fall Out Boy</item>
+        <item>Aerosmith</item>
+        <item>Journey</item>
+        <item>Beach Boys</item>
+        <item>Avenged Sevenfold</item>
+        <item>Dragonforce</item>
+        <item>All That Remains</item>
+        <item>Muse</item>
+        <item>Coheed and Cambria</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An American rock band that formed in California in 1996.</item>
+        <item>An American rock band that formed in Pennsylvania in 1999.</item>
+        <item>An American heavy metal band that formed in Nevada in 2005.</item>
+        <item>An American rock band that formed in Tennessee in 2004.</item>
+        <item>An American rock band that formed in Arkansas in 1995.</item>
+        <item>Originally, an American pop rock band that formed in Nevada in 2004.</item>
+        <item>An American vocal group that formed in Florida in 1993.</item>
+        <item>A Canadian rock band that formed in Ontario in 1997.</item>
+        <item>An American rock band that formed in Illinois in 2001.</item>
+        <item>An American rock band that formed in Massachusetts in 1970.</item>
+        <item>An American rock band that formed in California in 1973.</item>
+        <item>An American rock band that formed in California in 1961.</item>
+        <item>An American heavy metal band that formed in California in 1999.</item>
+        <item>A British power metal band that formed in London in 1999.</item>
+        <item>An American heavy metal band that formed in Massachusetts in 1998.</item>
+        <item>An English rock band that formed in Devon in 1994.</item>
+        <item>An American progressive rock band that formed in New York in 1995.</item>
+    </string-array>
+</resources>
